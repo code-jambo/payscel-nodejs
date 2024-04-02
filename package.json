@@ -1,0 +1,15 @@
+{
+  "name": "payscel",
+  "version": "1.0.0",
+  "description": "payscel client package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "payscel",
+    "mpesa-stk"
+  ],
+  "author": "unityarray",
+  "license": "ISC"
+}
